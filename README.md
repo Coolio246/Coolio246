@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coolio246
 - 👀 I’m interested in web and mobile apps development
-- 🌱 I’m currently learning learning Python
-- 💞️ I’m looking to collaborate on project am currently working with someone proficient in Python and Javascript
+- 🌱 I’m currently improving on PHP, Python, React
+- 💞️ I’m open to meaningful collaborations
 - 📫 How to reach me : collinsdmeister@gmail.com
 
 <!---
